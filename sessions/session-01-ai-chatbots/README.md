@@ -17,28 +17,32 @@ By the end of this session, you will:
 ## 📚 What We'll Cover
 
 ### Part 1: Concepts (10 min)
+
 - What is AI, ML, and LLM?
 - How do language models work?
 - API basics and authentication
 
 ### Part 2: Live Coding Demo (20 min)
+
 - GCP/Vertex AI setup walkthrough
 - Building a basic chatbot with conversation memory
 - Handling errors gracefully
 
 ### Part 3: Hands-On Activity (20 min)
+
 - Set up your own GCP account
 - Code along with the instructor
 - Test and enhance the chatbot
 
 ### Part 4: Wrap-up & Homework (10 min)
+
 - Review key concepts
 - Homework assignment
 - Q&A
 
 ## 📁 Folder Structure
 
-```
+```text
 session-01-ai-chatbots/
 ├── README.md                    # This file
 ├── slides.pdf                   # Presentation slides
@@ -62,16 +66,19 @@ session-01-ai-chatbots/
 ## 🚀 Quick Start
 
 ### Before the Session
+
 1. Complete [GCP Setup](../../getting-started/gcp-setup.md)
 2. Complete [Python Environment Setup](../../getting-started/python-environment.md)
 3. Review [Vertex AI Quickstart](../../getting-started/vertex-ai-quickstart.md)
 
 ### During the Session
+
 1. Follow along with the live demo
 2. Ask questions in the chat
 3. Complete the hands-on activity
 
 ### After the Session
+
 1. Choose a use case
 2. Enhance the chatbot
 3. Deploy to GitHub
@@ -86,6 +93,8 @@ session-01-ai-chatbots/
 
 ## 🎓 Use Case Options
 
+Pick one of these use cases or create your own! All use the same core concepts.
+
 ### Option 1: WCC Info Bot (Community Assistant)
 
 **Problem:** New members ask repetitive questions about WCC events, membership, volunteering
@@ -93,6 +102,7 @@ session-01-ai-chatbots/
 **Solution:** Build a chatbot that answers FAQs about WCC with personality
 
 **Tech Stack:**
+
 - Gemini API for conversation
 - System prompts for personality
 - Conversation memory for context
@@ -101,24 +111,60 @@ session-01-ai-chatbots/
 
 **Guide:** [WCC Info Bot Guide](./use-case-guides/wcc-info-bot.md)
 
-### Option 2: Personal Learning Assistant
+---
 
-**Problem:** Need help understanding AI concepts
+### Option 2: Career Quick Coach
 
-**Solution:** Build a chatbot that explains AI topics in simple terms
+**Problem:** Members need quick career advice between mentorship sessions
+
+**Solution:** Build an AI career coach chatbot for resume tips, interview prep, career questions
 
 **Tech Stack:**
-- Gemini API
-- System prompts for teaching style
-- Conversation memory
 
-### Option 3: Your Own Idea
+- Gemini API with career coaching persona
+- System prompts for mentoring style
+- Conversation memory for tracking goals
+- Optional: Persistent memory for future reference
 
-Have a different use case in mind? Go for it! The concepts are the same.
+**Bonus:** Save conversation history, create mock interview mode, add skill assessment
+
+**Guide:** [Career Quick Coach Guide](./use-case-guides/career-quick-coach.md)
+
+---
+
+### Option 3: Code Buddy (Beginner Code Helper)
+
+**Problem:** Beginners need quick code explanations and debugging help
+
+**Solution:** Build a friendly AI assistant that explains code and suggests fixes
+
+**Tech Stack:**
+
+- Gemini API with code-specific prompting
+- System prompts for beginner-friendly explanations
+- Code analysis and debugging support
+- Optional: Syntax highlighting and formatted output
+
+**Bonus:** Add code analysis features, error explanation database, code improvement suggestions
+
+**Guide:** [Code Buddy Guide](./use-case-guides/code-buddy.md)
+
+---
+
+### Option 4: Your Own Idea
+
+Have a different use case in mind? Go for it! The concepts are the same. Some ideas:
+
+- Study buddy for exam prep
+- Fitness coach for workout guidance
+- Recipe assistant for cooking help
+- Travel planner for trip recommendations
+- Wellness coach for mental health support
 
 ## 📝 Homework Assignment
 
 ### Requirements
+
 1. Choose one use case (or create your own)
 2. Enhance the basic chatbot:
    - Add personality with system prompts
@@ -132,12 +178,14 @@ Have a different use case in mind? Go for it! The concepts are the same.
 5. Submit the link to your repo
 
 ### Submission
+
 - Fork this repository
 - Create a folder: `sessions/session-01-ai-chatbots/participants/[your-username]/`
 - Add your code and README
 - Submit a pull request
 
 ### Grading Criteria
+
 - ✅ Chatbot works and responds to user input
 - ✅ Conversation memory is implemented
 - ✅ Error handling is present
@@ -162,7 +210,7 @@ A: No! You get $300 free credits for 90 days. The free tier is generous.
 A: Yes! Check [Alternative Platforms](../../getting-started/alternative-platforms.md) for guides.
 
 **Q: What if I get stuck?**  
-A: Ask in the WCC Slack channel or check [Troubleshooting](../../resources/troubleshooting.md).
+A: Ask in the [WCC Slack](https://womencodingcommunity.slack.com/archives/C09L9C3FJP7) channel or check [Troubleshooting](../../resources/troubleshooting.md).
 
 **Q: How long will this take?**  
 A: The basic chatbot takes ~30 minutes. Enhancements depend on your ideas!
@@ -179,6 +227,7 @@ A: The basic chatbot takes ~30 minutes. Enhancements depend on your ideas!
 **Session 2: Prompt Engineering & Security** (November 19, 2025)
 
 Topics:
+
 - Advanced prompting techniques
 - Security best practices
 - API rate limiting and costs
@@ -186,4 +235,4 @@ Topics:
 
 ---
 
-**Questions?** Ask in the WCC Slack channel!
+**Questions?** Ask in the [WCC Slack](https://womencodingcommunity.slack.com/archives/C09L9C3FJP7) channel!

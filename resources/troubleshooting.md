@@ -416,7 +416,7 @@ Before asking for help, verify:
    - GitHub Issues
    - Google Cloud Community
 
-3. **Ask in WCC Slack:**
+3. **Ask in [WCC Slack](https://womencodingcommunity.slack.com/archives/C09L9C3FJP7):**
    - Describe the problem clearly
    - Share error message
    - Include relevant code snippet

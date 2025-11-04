@@ -329,7 +329,7 @@ python test_bot.py
 
 ## Questions?
 
-Ask in the WCC Slack channel or reach out to the instructors!
+Ask in the [WCC Slack](https://womencodingcommunity.slack.com/archives/C09L9C3FJP7) channel or reach out to the instructors!
 
 ---
 

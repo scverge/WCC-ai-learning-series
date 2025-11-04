@@ -2,7 +2,7 @@
 
 ## Complete Directory Layout
 
-```
+```text
 wcc-ai-learning-series/
 │
 ├── README.md                                    # Main repository overview
@@ -79,7 +79,9 @@ wcc-ai-learning-series/
 - `sessions/session-01-ai-chatbots/starter-template/chatbot.py` - Basic chatbot
 - `sessions/session-01-ai-chatbots/starter-template/requirements.txt` - Dependencies
 - `sessions/session-01-ai-chatbots/starter-template/README.md` - Template guide
-- `sessions/session-01-ai-chatbots/use-case-guides/wcc-info-bot.md` - WCC bot guide
+- `sessions/session-01-ai-chatbots/use-case-guides/wcc-info-bot.md` - WCC Info Bot guide
+- `sessions/session-01-ai-chatbots/use-case-guides/career-quick-coach.md` - Career Coach guide
+- `sessions/session-01-ai-chatbots/use-case-guides/code-buddy.md` - Code Buddy guide
 
 **Resources:**
 
@@ -217,7 +219,7 @@ To add content:
 
 ## Support
 
-- **Questions?** Ask in WCC Slack
+- **Questions?** Ask in [WCC Slack](https://womencodingcommunity.slack.com/archives/C09L9C3FJP7)
 - **Issues?** Check `resources/troubleshooting.md`
 - **Resources?** See `resources/reading-list.md`
 - **Feedback?** Create an issue or PR

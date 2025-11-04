@@ -45,7 +45,7 @@ You should see `(venv)` at the beginning of your terminal prompt.
 
 ## Install Required Packages
 
-Create a `requirements.txt` file in your project directory:
+Create a `requirements.txt` file in your project directory if you haven't already:
 
 ```text
 google-cloud-aiplatform>=1.26.0
@@ -98,7 +98,7 @@ python test_setup.py
 
 ## Environment Variables
 
-Create a `.env` file in your project root:
+Create a `.env` file in your project root if you haven't already:
 
 ```text
 GCP_PROJECT_ID=your-project-id

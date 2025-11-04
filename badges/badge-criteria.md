@@ -220,7 +220,7 @@ A: Forever! They're part of your learning journey.
 
 ## Questions?
 
-Ask in the WCC Slack or reach out to instructors!
+Ask in the [WCC Slack](https://womencodingcommunity.slack.com/archives/C09L9C3FJP7) or reach out to instructors!
 
 ---
 

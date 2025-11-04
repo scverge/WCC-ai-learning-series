@@ -134,4 +134,4 @@ Replace `YOUR_PROJECT_ID` with your actual project ID (found in the Cloud Consol
 
 - [GCP Documentation](https://cloud.google.com/docs)
 - [Vertex AI Documentation](https://cloud.google.com/vertex-ai/docs)
-- Ask in the WCC Slack channel!
+- Ask in the [WCC Slack](https://womencodingcommunity.slack.com/archives/C09L9C3FJP7) channel!

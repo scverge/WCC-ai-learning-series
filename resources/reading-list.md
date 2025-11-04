@@ -232,6 +232,6 @@
 
 ---
 
-**Have a resource recommendation?** Share it in the WCC Slack!
+**Have a resource recommendation?** Share it in the [WCC Slack](https://womencodingcommunity.slack.com/archives/C09L9C3FJP7)!
 
 **Last Updated:** November 2025
